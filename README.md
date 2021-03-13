@@ -8,10 +8,6 @@ https://space.bilibili.com/189064479/channel/detail?cid=113230
 
 ![](./mlvp.PNG)
 
-Orange 原版下载（Windows）：https://orange.biolab.si/download/#windows  
-Orange 原版下载（MacOS）：https://orange.biolab.si/download/#macos  
-Orange 原版下载（Linux）：https://orange.biolab.si/download/#linux  
-
 # 第1集 - 又一个鸢尾花分类（数据分类） （Lab-1）
 
 Orange 是一款高效灵活的数据挖据工具，没有编程与统计学领域知识背景的学生，在职人士与科研人员，一样能实现机器学习算法模型的高级操作，把机器学习工具应用自如，就如同：Word, Excel 一样。在本集中，你将学习到：
