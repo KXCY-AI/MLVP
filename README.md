@@ -2,6 +2,12 @@
 
 智能数据挖掘演示平台，是广州跨象乘云软件技术有限公司基于 Orange 的本地化扩展开发的版本，视频内所演示的全部实验均与 Orange 原始发布平台完全兼容，均可重现。借助交互式可视化界面，提供人工智能模型训练的全流程支撑智能化平台。支持从：面向多源、多格式数据融合，在线预处理，特征工程、智能统计；到模型训练、非监督学习、深度学习、强化学习；到模型评估、模型教学、预测、模型管理及交互式数据可视化发布等端到端功能。平台高效易用，开放支持 Python 模型代入；同时将数据科学中复杂的数据操作、机器学习算法、交互式数据可视化脚本，设置为流程组件，通过鼠标拖放，即能实现基于工作流的人工智能模型训练 —— 助力高校经管学院，统计数理学院等非计算机类专业师生，实现数据挖掘与机器学习的教学与科研工作。
 
+## 演示视频频道
+
+https://space.bilibili.com/189064479/channel/detail?cid=113230
+
+![](./mlvp.PNG)
+
 Orange 原版下载（Windows）：https://orange.biolab.si/download/#windows  
 Orange 原版下载（MacOS）：https://orange.biolab.si/download/#macos  
 Orange 原版下载（Linux）：https://orange.biolab.si/download/#linux  
